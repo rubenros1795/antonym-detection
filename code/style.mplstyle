@@ -1,0 +1,25 @@
+# custom_style.mplstyle
+
+# Use Roboto font
+font.family: Roboto, sans-serif
+
+# Axis elements color
+xtick.color: black
+ytick.color: black
+axes.labelcolor: black
+axes.edgecolor: black
+axes.linewidth: 1.5
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+
+# Additional settings
+axes.labelsize: 16  # Set axes label size to 16
+
+# Custom legend settings
+legend.fancybox: False  # Straight corners for the legend box
+legend.loc: upper center
+legend.fontsize: 14
+legend.markerscale: 2
+legend.edgecolor: black  # Set legend border color
